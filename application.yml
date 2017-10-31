@@ -8,6 +8,3 @@ logging:
 fortune:
   fallbackFortune: Your future is cloudy..
 
-eureka:
-  instance:
-    leaseRenewalIntervalInSeconds: 10
