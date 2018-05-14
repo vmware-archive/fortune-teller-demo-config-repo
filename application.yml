@@ -6,5 +6,5 @@ logging:
           samples: INFO
 
 fortune:
-  fallbackFortune: Your future is cloudy.
+  fallbackFortune: Your future is cloudy today.
 
