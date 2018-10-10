@@ -6,5 +6,5 @@ logging:
           samples: INFO
 
 fortune:
-  fallbackFortune: Hi San Francisco SpringOne Tour, here is the fallback method!
+  fallbackFortune: Your future is cloudy.
 
